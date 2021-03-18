@@ -1,0 +1,13 @@
+body{
+    max-width: 75%;
+}
+
+#calendar-container{
+    opacity: 0;
+    pointer-events: none;
+}
+
+#bookings{
+    opacity: 0;
+    pointer-events: none;
+}
